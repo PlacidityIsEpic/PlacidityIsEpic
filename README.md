@@ -3,6 +3,3 @@
 
 ### -- i think im a web dev but i do lua when i want --
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PlacidityIsEpic&theme=onedark&show_icons=true&hide_border=true&layout=compact)
-
-### -- im too active on github ig 300 contributions already --
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=PlacidityIsEpic&theme=onedark&hide_border=true)
