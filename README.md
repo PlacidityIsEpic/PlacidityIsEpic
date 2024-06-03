@@ -1,6 +1,3 @@
-email me
-placidityisepic@gmail.com
-
 -- useless stats --
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PlacidityIsEpic&theme=onedark&show_icons=true&hide_border=true&count_private=true)
 -- useless stats pt. 2 --
